@@ -29,7 +29,6 @@ contact-rich tasks where vision alone is insufficient.
 🦾 **UMI + Tactile Sensing** — Visual-tactile sync for imitation learning · <15 ms error
 👁️ **Stereo Visual Odometry** — SuperPoint + LightGlue + PnP RANSAC · 0.75% RTE on KITTI
 ✋ **RGB-D Grasp Detection** — Mask R-CNN + GG-CNN two-stage pipeline
-🗺️ **Visual Place Recognition** — AnyLoc evaluation with foundation model features
 
 ---
 
