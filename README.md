@@ -9,7 +9,7 @@
 
 ## 🧠 About my research
 
-My thesis extends the UMI framework with tactile feedback, enabling a Franka Panda robot
+My thesis extends the UMI framework with tactile feedback, enabling the manipulator 
 to learn manipulation policies from human demonstrations that include force and Vision.
 I achieved <15 ms visual–tactile synchronisation error and validated the pipeline on
 contact-rich tasks where vision alone is insufficient.
